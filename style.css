@@ -1,0 +1,26 @@
+body{
+    /* background-color: aqua; */
+    margin: 1rem;
+    /* display: flex;
+    flex-wrap: wrap; */
+    word-wrap: break-word;
+    line-height: 10px;
+    font-size: 10px;
+    background-color: grey;
+}
+
+div{
+    display: flex;
+    flex-direction: row;
+    word-wrap: break-word;
+    flex-wrap: wrap; 
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    padding: 0;
+    margin: 0;
+    width: 9px;
+    text-align: center;
+}
